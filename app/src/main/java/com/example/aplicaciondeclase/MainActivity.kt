@@ -11,7 +11,7 @@ class MainActivity : AppCompatActivity() {
     //Declaración de las variables
     lateinit var primerBoton:Button
     lateinit var segundoBoton:Button
-
+//otro comenatrio
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
