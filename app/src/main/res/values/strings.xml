@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AplicacionDeClase</string>
+    <string name="decrementar_y_incrementar">Decrementar y Incrementar</string>
+    <string name="incrementar">Incrementar</string>
+    <string name="decrementar">Decrementar</string>
+    <string name="_0">0</string>
+    <string name="creditos_del_autor">Creditos del autor</string>
+    <string name="inicio">Inicio</string>
+    <string name="jorge_minakata_ya_ez">Jorge Minakata Yañez</string>
+    <string name="nombre_de_autor">Nombre de autor:</string>
+    <string name="todo">TODO</string>
+    <string name="datos_del_autor_de_la_app">Datos del autor de la app</string>
+    <string name="tics">TICS</string>
+    <string name="_214691154">214691154</string>
+    <string name="_7mo_semestre">7mo Semestre</string>
+    <string name="topicos_selectos_de_tecnolog_as_l">Topicos Selectos De Tecnologías l</string>
+    <string name="t_picos_selextos_de_tecnolog_as_l">Tópicos Selextos de Tecnologías l</string>
+    <string name="_129434">129434</string>
+</resources>
